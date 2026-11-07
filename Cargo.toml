@@ -1,0 +1,10 @@
+[package]
+name = "quran-rs-ayah-abjad-checksum"
+version = "1.0.0"
+edition = "2021"
+description = "Quranic Ayah Numerical Checksum & Abjad Gematria Verifier"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "quran_rs_ayah_abjad_checksum"
+path = "main.rs"
